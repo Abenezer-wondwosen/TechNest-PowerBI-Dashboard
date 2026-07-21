@@ -1,0 +1,31 @@
+p_id,p_nm,cat,brand,cost_pkr,price_pkr
+PRD-001,Dell Inspiron 15,laptops,Dell,95000.5,115000
+PRD-002,HP Pavilion x360,laptops,HP,88000.25,105000
+PRD-003,Lenovo IdeaPad Slim 5,laptops,Lenovo,72000,89000
+PRD-004,Asus VivoBook 14,LAPTOPS,Asus,68000.75,82000
+PRD-005,Apple MacBook Air M2,laptops,Apple,185000,225000
+PRD-006,Acer Aspire 5,laptops,Acer,62000.5,75000
+PRD-007,Dell XPS 13,laptops,Dell,210000.25,255000
+PRD-008,Samsung Galaxy S24,MOBILES,Samsung,165000,199000
+PRD-009,iPhone 15 Pro,mobiles,Apple,295000.75,350000
+PRD-010,Xiaomi 14 Ultra,MOBILES,Xiaomi,82000.25,99000
+PRD-011,Samsung Galaxy A55,mobiles,SAMSUNG,58000.5,72000
+PRD-012,Oppo Reno 12,mobiles,Oppo,48000,59000
+PRD-013,Vivo V30 Pro,MOBILES,Vivo,52000.75,64000
+PRD-014,OnePlus 12,mobiles,OnePlus,92000.25,110000
+PRD-015,Tecno Phantom V Fold,mobiles,Tecno,75000,75000
+PRD-016,iPad Pro 12.9 M4,Tablets,Apple,185000.5,225000
+PRD-017,Samsung Galaxy Tab S9,Tablets,Samsung,92000.25,115000
+PRD-018,Lenovo Tab P12 Pro,tablets,Lenovo,55000,68000
+PRD-019,Xiaomi Pad 6 Pro,TABLETS,Xiaomi,45000.75,56000
+PRD-020,Huawei MatePad Pro,Tablets,Huawei,72000,88000
+PRD-021,Logitech MX Keys Keyboard,accessories,Logitech,8500.5,12000
+PRD-022,Sony WH-1000XM5 Headphones,ACCESSORIES,Sony,42000.25,55000
+PRD-023,Apple AirPods Pro 2,accessories,Apple,48000.75,62000
+PRD-024,Samsung 65W Fast Charger,accessories,Samsung,3200,4500
+PRD-025,Anker USB-C Hub 7-in-1,accessories,Anker,5800.5,8200
+PRD-026,Logitech G502 X Gaming Mouse,Accessories,Logitech,9500.25,13500
+PRD-027,Dell 27-inch Monitor,accessories,Dell,38000,48000
+PRD-028,Belkin Wireless Charger Pad,ACCESSORIES,Belkin,4200.75,6000
+PRD-029,JBL Flip 6 Speaker,accessories,JBL,15500.5,22000
+PRD-030,SanDisk 1TB SSD,accessories,SanDisk,22000,30000
